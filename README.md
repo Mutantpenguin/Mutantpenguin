@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 ![Redmine](https://img.shields.io/badge/Redmine-B32024.svg?style=for-the-badge&logo=Redmine&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4.svg?style=for-the-badge&logo=OpenGL&logoColor=white)
 ![Qlik](https://img.shields.io/badge/Qlik-009848.svg?style=for-the-badge&logo=Qlik&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-D7FF64.svg?style=for-the-badge&logo=ruff&logoColor=black)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white)
