@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438.svg?style=for-the-badge&logo=Redis&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white)
+![Oracle Forms](https://img.shields.io/badge/Oracle%20Forms-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white)
+![Oracle Reports](https://img.shields.io/badge/Oracle%20Reports-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000.svg?style=for-the-badge&logo=Inkscape&logoColor=white)
 ![GIMP](https://img.shields.io/badge/GIMP-5C5543.svg?style=for-the-badge&logo=GIMP&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
