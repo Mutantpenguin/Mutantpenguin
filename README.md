@@ -65,12 +65,8 @@ Here are some ideas to get you started:
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 
 ## 📫 How to reach me
-![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)
-
-![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)
-
-![Xing](https://img.shields.io/badge/Xing-006567.svg?style=for-the-badge&logo=Xing&logoColor=white)
-
-![Steam](https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/markus-lobedann-25a597253)
+[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/328797780078362625)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:markus.lobedann@gmail.com)
+[![Xing](https://img.shields.io/badge/Xing-006567.svg?style=for-the-badge&logo=Xing&logoColor=white)](https://www.xing.com/profile/Markus_Lobedann)
+[![Steam](https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/profiles/76561197967404629)
